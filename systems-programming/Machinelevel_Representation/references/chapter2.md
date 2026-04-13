@@ -6,7 +6,9 @@ used to store integer data as well as pointers.
 **Operand** 
 
 immediate -> constant values -> which is imm.
+
 register -> denotes the content of the register.
+
 memory reference -> access some memory location through the computed address called effective address.
 
 there are different types of addressing modes:
